@@ -22,3 +22,4 @@ public class salaries {
 //makki(ray bil a)
 
 //testfinale
+//ghhghghg
